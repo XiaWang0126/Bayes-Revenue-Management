@@ -1,1 +1,6 @@
-# Bayes-Revenue-Management
+# Revenue Management and Pricing
+
+## Module Overview 
+The Revenue Management and Pricing module explains how firms should manage their pricing and product availability policies across different selling channels in order to optimise their performance and profitability. The module aims to explain the quantitative models needed to tackle a number of important business problems such as capacity allocation, peak-period pricing, network revenue management, dynamic pricing, markdown management, customer choice modelling, segmentation, assortment optimization, market basket analysis, and demand learning. The module is designed as a combination of lectures and exercises, which help you understand revenue optimisation together with appropriate pricing strategies. Tactical optimisation methods are the key ingredients of the module and key to the wider industry. Consequently, the module will regularly utilize software (primarily R) to incorporate applications of these methods.
+
+Overall, the module will also expose students to several fundamental analytical methodologies such as linear programming, nonlinear optimisation, stochastic dynamic programming, Markov decision processes, simulation, maximum likelihood estimation, and (Bayesian) multi-armed bandit problems.
